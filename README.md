@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hello World, eu me chamo Felipe e seja bem vindo a minha Git House :)
 Atualmente estou cursando o tecnólogo, Análise e Desenvolvimento de Sistemas na FIAP.  Em minhas aplicações educacionais, estou fazendo diversos projetos com empresas, uma delas a Porto Seguro, em que adjunto a equipe, estudamos pontos a serem melhorados na empresa  e desenvolvemos sistemas que solucionam e melhoram as estruturas do sistema de cada empresa.<br>Sou apaixonado em aprender, explorando novas linguagens, fazendo aplicações e abordando conhecimentos sistemáticos de uma empresa.<br>Além disso, gosto muito de ler todos os tipos de livro, jogar videogames e tocar instrumentos musicais.
 
 
