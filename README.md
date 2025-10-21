@@ -1,4 +1,4 @@
-# Olá, Mundo! Eu sou o Felipe Silva Maciel 👋
+# Olá! Eu sou o Felipe Silva Maciel 👋
 
 ### Estudante de Análise e Desenvolvimento de Sistemas na FIAP | Entusiasta de Data Science & IA | Desenvolvedor Python
 
