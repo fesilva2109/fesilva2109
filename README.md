@@ -14,7 +14,7 @@
 
 <br/>
 
-Analista de Dados formado em Análise e Desenvolvimento de Sistemas pela FIAP, com experiência em automação de processos fiscais, integração de APIs e aplicações de inteligência artificial. Atuo com Python, SQL, Power BI e SAP no desenvolvimento de pipelines de dados, extração de documentos fiscais e conciliações em contexto tributário.
+Analista de Dados formado em Análise e Desenvolvimento de Sistemas pela FIAP, com experiência em automação de processos fiscais, integração de APIs e aplicações de inteligência artificial. Atuo com Python, SQL, Power BI e no desenvolvimento de pipelines de dados, extração de documentos fiscais e conciliações em contexto tributário.
 
 ---
 
