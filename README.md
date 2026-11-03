@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1F3864&height=120&section=header&text=Felipe%20Silva%20Maciel&fontSize=40&fontColor=ffffff&fontAlignY=50" alt="Felipe Silva Maciel"/>
+  <img src="https://raw.githubusercontent.com/fesilva2109/fesilva2109/main/assets/matrix-header.gif" width="100%" alt="Felipe Silva Maciel"/>
 </p>
 
 <p align="center">
