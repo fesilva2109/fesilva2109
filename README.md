@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Analista de Dados</b> &nbsp;|&nbsp; Python · SQL · APIs · Power BI · SAP · IA
+  <b>Analista de Dados</b> &nbsp;|&nbsp; Python · SQL · APIs · Power BI · n8n · IA
 </p>
 
 <p align="center">
